@@ -23,7 +23,7 @@ function ProductItem() {
         <div>
             <button className={styles.btn} onClick={goBackHander}>&#8592;</button>
             <div className={styles.container}>
-                <img className="product_img" src={shoe.img} width="400px" height="300px" />
+                <img className="product_img" alt="IMG" src={shoe.img} width="400px" height="300px" />
                 <h4>{shoe.name}</h4>
             </div>
 
