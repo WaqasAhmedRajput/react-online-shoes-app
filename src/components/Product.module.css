@@ -1,0 +1,29 @@
+.container{
+    margin:50px 0;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.container > div{
+    margin-left:28px;
+    margin-top:28px;
+    text-align: center;
+    box-shadow: 0 0 10px #463636;
+    border-radius: 0 0 24px 24px;
+}
+.container > div:hover{
+  background-color: rgb(56, 111, 214);
+  box-shadow: 0 0 10px  rgb(56, 111, 214);
+}
+.container > div> a:link{
+    text-decoration: none;
+    color: #000;
+}
+.container > div> a:hover{
+    text-decoration: underline;
+    color: #fff;
+}
+
+.product_img{
+    margin-left: 4px;
+  }

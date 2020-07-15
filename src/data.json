@@ -1,0 +1,46 @@
+{
+    "air-jordan-3-white-indigo": {
+        "name": "WHITE INDIGO",
+        "img": "/static/Nike-turbo-white.jpg"
+    },
+    "jordan-mars-270-london": {
+        "name": "JORDAN MARS 270 LONDON",
+        "img": "/static/Nike-womenShoe.jpg"
+    },
+    "zoom-racer-black-purple": {
+        "name": "RACER BLACK PURPLE",
+        "img": "/static/Smart-Shoe.jpg"
+    },
+    "zoom-racer-purple": {
+        "name": "RACER BLACK",
+        "img": "/static/Nike-women-shoe.jpg"
+    },
+    "air-jordan-1-zoom-racer-black": {
+        "name": "RACER BLUE",
+        "img": "/static/nike_hyperadapt-profile.jpg"
+    },
+    "zoom-nike-sneakers": {
+        "name": "RACER NIKE SNEAKERS",
+        "img": "/static/Nike-Sneakers.jpg"
+    },
+    "nike-Tanjun": {
+        "name": "RACER NIKE TANJUN",
+        "img": "/static/NikeTanjun.jpg"
+    },
+    "zoom-racer-purple": {
+        "name": "RACER BLACK PURPLE",
+        "img": "/static/Nike-Women-Ware.jpg"
+    },
+    "zoom-racer-purple-white": {
+        "name": "RACER BLACK PURPLE",
+        "img": "/static/Nike-women-training-shoe.jpg"
+    },
+    "zoom-racer-purple-black-white": {
+        "name": "RACER BLACK WHITE",
+        "img": "/static/Nike-running-shoe.jpg"
+    },
+    "zoom--black-white": {
+        "name": "RACER BLACK WHITE",
+        "img": "/static/Nike-women-shoe.jpg"
+    }
+}

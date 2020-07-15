@@ -1,0 +1,31 @@
+.headerContainer{
+    width:100%;
+    background-color: rgb(56, 111, 214) ;
+    height: 50px;
+}
+body{
+    margin: 0;
+    padding: 0;
+  }
+.nav{
+    text-align: center;
+}
+.nav> li{
+    display: inline-block;
+    list-style: none;
+    padding: 5px;
+
+}
+.nav> li> a:link{
+    text-decoration: none;
+    font-weight: bolder;
+    color:#fff;
+}
+.nav> li> a:hover{
+    text-decoration: underline;
+}
+.nav> li> a:visited{
+    text-decoration: underline;
+    color:#fff;
+}
+

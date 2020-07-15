@@ -1,0 +1,23 @@
+body{
+    padding: 30px;
+}
+.container{
+    margin-top: 100px;
+   flex-wrap: wrap;
+}
+.container > .tables{
+  padding: 40px;
+  background-color:rgb(56, 111, 214);
+
+}
+.container > .tables > tr > th,td {
+    font-size: 15px;
+    padding: 10px;
+    word-spacing: 5px;
+    background-color: lightcyan;
+}
+
+.container > .tables > tr > th,td:hover{
+    font-size: 20px;
+    cursor: pointer;
+}
