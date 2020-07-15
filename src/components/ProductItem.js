@@ -1,7 +1,7 @@
 import React from 'react';
 import Shoes from '../data.json';
 import { useHistory, useParams } from "react-router-dom";
-import Products from './Products';
+
 
 import styles from './ProductItem.module.css';
 
