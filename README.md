@@ -9,7 +9,7 @@
 
 
 ### Project 
-    Bootcamp 2020 3rd Project Demo D
+    Bootcamp 2020 3rd Project Demo
 
 ### Use of JSON STATIC data FILE
 
