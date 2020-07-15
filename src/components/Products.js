@@ -1,7 +1,7 @@
 import React from 'react'
 import shoes from '../data.json';
 import styles from '../components/Product.module.css';
-import { BrowserRouter as Router, Switch, Route, Link } from 'react-router-dom';
+import { Link } from 'react-router-dom';
 
 const Products = () => {
 

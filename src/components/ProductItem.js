@@ -5,10 +5,6 @@ import Products from './Products';
 
 import styles from './ProductItem.module.css';
 
-function goBack() {
-    window.history.back();
-
-}
 
 function ProductItem() {
     const { id } = useParams();
