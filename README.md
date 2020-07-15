@@ -9,8 +9,9 @@ Desktop ,Laptop and Tablet or Mobile size change
 
 
 ### Project 
-Bootcamp 2020 #rd Project Demo 
+Bootcamp 2020 3rd Project Demo D
 
 ### Use of JSON STATIC data FILE
 
 in this project i use data.json file fetching a data
+or some images in static folder
